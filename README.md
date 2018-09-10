@@ -3,7 +3,7 @@ This project is based on the analysis of IIT JEE question paper of last 10 years
 
 
 <h2><b>How to Use</b></h2>
-For importing package, include the IIT_analysis file in your directory and call the package as follows
+For importing package, include the IIT_analysis file in your directory and call the package as follows - 
 <br>
 <code>from IIT_analysis import Paper</code>
 <br>
@@ -20,7 +20,7 @@ To get the entire textual content of Question Paper as a string -
 <br>
 To remove the Stopwords from the string - 
 <br>
-<code>paper_object.remove_stopwords</code>
+<code>paper_object.remove_stopwords()</code>
 <br>
 <br>
 To get the number of words in Question Paper after removing stopwords - 
