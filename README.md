@@ -3,7 +3,6 @@ This project is based on the analysis of IIT JEE question paper of last 10 years
 
 
 <h2><b>How to Use</b></h2>
-<br>
 For importing package, include the IIT_analysis file in your directory and call the package as follows
 <br>
 <code>from IIT_analysis import Paper</code>
