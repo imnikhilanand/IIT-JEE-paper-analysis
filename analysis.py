@@ -1,9 +1,5 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Sep  9 21:21:58 2018
 
-@author: Nikhil Anand
-"""
+#Importing the IIT_analysis package
 
 from IIT_analysis import Physics
 
