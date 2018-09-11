@@ -30,5 +30,20 @@ To get the number of words in Question Paper after removing stopwords -
 <br>
 
 
+<h2><b>Analysis of IIT-JEE 2014</h2>
+<br>
+Physics
+<img src="images/physcis_1.png" width="50%">  
+<br>
+<img src="images/physcis_2.png" width="50%">  
+<br>
+<br>
+
+Chemistry
+<img src="images/chemistry_1.png" width="50%">  
+<br>
+<img src="images/chemistry_2.png" width="50%">  
+<br>
+<br>
 
 
